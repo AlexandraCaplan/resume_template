@@ -1,0 +1,71 @@
+{
+  "name": "Alexandra Caplan",
+  "mainEmoji": {
+    "character": "👋",
+    "ariaLabel": "wave"
+  },
+  "phoneNumber": "508-385-3950",
+  "email": "alexandracaplan@gmail.com",
+  "githubHandle": "AlexandraCaplan",
+  "linkedInHandle": "alexandra-caplan",
+  "headingEmojis": {
+    "workExperience": {
+      "character": "👨‍💻",
+      "ariaLabel": "computer-man"
+    },
+    "educationExperience": {
+      "character": "👨‍🎓",
+      "ariaLabel": "graduate-man"
+    },
+    "skills": {
+      "character": "💪",
+      "ariaLabel": "muscle"
+    }
+  },
+  "workExperiences": [
+    {
+      "emoji": "🍔",
+      "ariaLabel": "hamburger",
+      "jobTitle": "Senior Manager",
+      "institution": "Restaurant Brands International",
+      "dates": "2020 - present",
+      "details": ["Marketing Analytics and Digital"]
+    },
+    {
+      "emoji": "👨‍🏫",
+      "ariaLabel": "teacher",
+      "jobTitle": "Manager",
+      "institution": "AlphaSights",
+      "dates": "2014 - 2018",
+      "details": ["Client Service Manager"]
+    }
+  ],
+  "educationalExperiences": [
+    {
+      "emoji": "📓",
+      "ariaLabel": "notebook",
+      "university": "London Business School",
+      "school": "MBA",
+      "dates": "2018-2020",
+      "details": ["Masters of Business Administration"]
+    },
+    {
+      "emoji": "✌️",
+      "ariaLabel": "peace-sign",
+      "university": "Georgetown University",
+      "school": "College",
+      "dates": "2010-2014",
+      "details": ["Portuguese & Politics Major"]
+    }
+  ],
+  "skills": [
+    {
+      "emoji": "🗣",
+      "ariaLabel": "talking",
+      "dates": "1992 - present",
+      "skillone": "Languages",
+      "skilltwo": "Frameworks",
+      "details": ["Portuguese, Spanish, Touch Rugby"]
+    }
+  ]
+}
